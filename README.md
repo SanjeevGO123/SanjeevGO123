@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @SanjeevGO123
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Data Science
 - 📫 How to reach me sanjeevsudharshan@gmail.com
