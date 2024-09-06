@@ -13,8 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SanjeevGO123&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeevGO123&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SanjeevGO123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # LeetCode Stats:
 [![Leetcode Stats](https://leetcard.jacoblin.cool/SanjeevGO123?ext=heatmap)](https://leetcode.com/SanjeevGO123)
