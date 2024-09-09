@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeevGO123&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-# LeetCode Stats (github.com/SanjeevGO123):
+# LeetCode Stats:
 [![Leetcode Stats](https://leetcard.jacoblin.cool/SanjeevGO123?ext=heatmap)](https://leetcode.com/SanjeevGO123)
 
 ### ✍️ Random Dev Quote
