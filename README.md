@@ -13,7 +13,7 @@
 ## AWS Certifications  
 
 [![AWS Certified Developer - Associate](https://images.credly.com/size/156x156/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/89ef65fd-1659-46ca-88a9-7b43c28c2c65)
-[![AWS Certified Solutions Architect - Associate](https://images.credly.com/size/156x156/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/0e284c3f-5164-4b21-8660-0d84737941bc)
+[![AWS Certified Solutions Architect - Associate](https://images.credly.com/size/156x156/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/d291b7ec-656a-48c8-b137-eb7ab017e26e)
 
 
 
