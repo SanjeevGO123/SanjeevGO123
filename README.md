@@ -12,7 +12,7 @@
 
 ## AWS Certifications  
 
-[![AWS Certified Badge](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/89ef65fd-1659-46ca-88a9-7b43c28c2c65)
+[![AWS Certified Developer - Associate](https://images.credly.com/size/156x156/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/89ef65fd-1659-46ca-88a9-7b43c28c2c65)
 
 
 
