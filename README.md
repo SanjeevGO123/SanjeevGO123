@@ -12,9 +12,10 @@
 
 ## AWS Certifications
 
-## AWS Certifications  
 
-[![AWS Certified Badge](https://images.credly.com/size/220x220/images/89ef65fd-1659-46ca-88a9-7b43c28c2c65/image.png)](https://www.credly.com/badges/89ef65fd-1659-46ca-88a9-7b43c28c2c65)
+
+![AWS Certified Badge](https://images.credly.com/size/220x220/images/89ef65fd-1659-46ca-88a9-7b43c28c2c65/image.png)
+
 
 
 # 📊 GitHub Stats:
