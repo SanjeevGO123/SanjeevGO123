@@ -12,8 +12,10 @@
 
 ## AWS Certifications
 
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/220x220/images/2d178c25-1b91-493a-8bfd-4e4a1f5f98dd/image.png)](https://www.credly.com/badges/89ef65fd-1659-46ca-88a9-7b43c28c2c65/public_url)
-[![AWS Certified Developer – Associate](https://images.credly.com/size/220x220/images/4bcf1e5e-4e64-4e31-a4a4-7d1ab16857f9/image.png)](https://www.credly.com/badges/89ef65fd-1659-46ca-88a9-7b43c28c2c65/public_url)
+## AWS Certifications  
+
+[![AWS Certified Badge](https://images.credly.com/size/220x220/images/89ef65fd-1659-46ca-88a9-7b43c28c2c65/image.png)](https://www.credly.com/badges/89ef65fd-1659-46ca-88a9-7b43c28c2c65)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SanjeevGO123&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)</br>
