@@ -11,6 +11,7 @@
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="30"> AWS Certifications  
 
+[![AWS Certified AI Practitioner](https://images.credly.com/size/156x156/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/e61fff61-71a9-4bf3-8027-87779b5ce977)
 [![AWS Certified Developer - Associate](https://images.credly.com/size/156x156/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/89ef65fd-1659-46ca-88a9-7b43c28c2c65)
 [![AWS Certified Solutions Architect - Associate](https://images.credly.com/size/156x156/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/d291b7ec-656a-48c8-b137-eb7ab017e26e)
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/156x156/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/803f9421-3593-49e5-8a33-5e62f104ccfa)
